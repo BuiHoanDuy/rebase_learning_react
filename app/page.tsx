@@ -8,6 +8,10 @@ export default function HomePage() {
       <div className="text-center">
         <div className="flex justify-center items-center pt-12 pb-10">
           <Image src="/imgs/logo00.png" alt="Logo HL Laoshi" height="64" width="250" className='opacity-70'/>
+                  <div className="flex justify-center items-center pt-12 pb-10">
+          <Image src="/imgs/logo00.png" alt="Logo HL Laoshi" height="64" width="250" className='opacity-70'/>
+                  <div className="flex justify-center items-center pt-12 pb-10">
+          <Image src="/imgs/logo00.png" alt="Logo HL Laoshi" height="64" width="250" className='opacity-70'/>
         </div>
 
         <h1 className="text-4xl font-bold sm:text-5xl md:text-6xl">HSK Tiêu chuẩn 3</h1>

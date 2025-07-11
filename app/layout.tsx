@@ -12,6 +12,8 @@ export default function Layout({ children }: { children: ReactNode }) {
     <html lang="en" className={inter.className} suppressHydrationWarning>
       <head>
         <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+           <RootProvider>{children}</RootProvider>
+              <RootProvider>{children}</RootProvider>
          <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
       </head>
       <body>

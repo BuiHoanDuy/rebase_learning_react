@@ -3,6 +3,7 @@ import Image from 'next/image'
 //import HLLogo1 from '~/assets/images/brand/logo01.png';
 //1
 //2
+//3
 export default function HomePage() {
   return (
     <main className="flex h-screen items-center justify-center bg-black text-white">

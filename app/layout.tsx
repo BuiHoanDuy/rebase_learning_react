@@ -10,8 +10,17 @@ const inter = Inter({
 export default function Layout({ children }: { children: ReactNode }) {
   return (
     <html lang="en" className={inter.className} suppressHydrationWarning>
+         <html lang="en" className={inter.className} suppressHydrationWarning>
+             <html lang="en" className={inter.className} suppressHydrationWarning></html>
+         </html>
       <head>
-        <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+        <link rel="shortcushotcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+         <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+             <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+         <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+             <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+         <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+             <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
          <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
       </head>
       <body>

@@ -8,6 +8,8 @@ import Image from 'next/image'
 //5
 //7
 //6 6
+//7
+//8
 export default function HomePage() {
   return (
     <main className="flex h-screen items-center justify-center bg-black text-white">

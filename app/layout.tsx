@@ -18,6 +18,10 @@ export default function Layout({ children }: { children: ReactNode }) {
          <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
              <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
          <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+             <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+         <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+             <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
+         <link rel="shortcut icon" href="/imgs/logoico01.png" type       ="image/png" />
       </head>
       <body>
         <RootProvider>{children}</RootProvider>
